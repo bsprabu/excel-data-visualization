@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-excel_file_path = "data/Financial Sample.xlsx"
+excel_file_path = "Sample.xlsx"
 df = pd.read_excel(excel_file_path)
 #print(df)
 
